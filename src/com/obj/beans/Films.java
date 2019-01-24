@@ -8,7 +8,7 @@ public class Films {
 	private int duree;
 	private int sortie;
 	private int idGenre;
-	private int Statistique;
+	private int test;
 
 	public long getIdFilm() {
 		return idFilm;
